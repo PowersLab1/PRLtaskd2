@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PRLtaskd2/static/css/main.c032914e.chunk.css",
-    "main.js": "/PRLtaskd2/static/js/main.3d386af7.chunk.js",
-    "main.js.map": "/PRLtaskd2/static/js/main.3d386af7.chunk.js.map",
+    "main.js": "/PRLtaskd2/static/js/main.3d34d83a.chunk.js",
+    "main.js.map": "/PRLtaskd2/static/js/main.3d34d83a.chunk.js.map",
     "runtime-main.js": "/PRLtaskd2/static/js/runtime-main.12ba2108.js",
     "runtime-main.js.map": "/PRLtaskd2/static/js/runtime-main.12ba2108.js.map",
     "static/js/2.3501ca85.chunk.js": "/PRLtaskd2/static/js/2.3501ca85.chunk.js",
     "static/js/2.3501ca85.chunk.js.map": "/PRLtaskd2/static/js/2.3501ca85.chunk.js.map",
     "index.html": "/PRLtaskd2/index.html",
-    "precache-manifest.ea914eb20660ce46edc1f3528a80747e.js": "/PRLtaskd2/precache-manifest.ea914eb20660ce46edc1f3528a80747e.js",
+    "precache-manifest.2f52fc2b60c3fb8c703eb7040a30fd47.js": "/PRLtaskd2/precache-manifest.2f52fc2b60c3fb8c703eb7040a30fd47.js",
     "service-worker.js": "/PRLtaskd2/service-worker.js",
     "static/css/main.c032914e.chunk.css.map": "/PRLtaskd2/static/css/main.c032914e.chunk.css.map",
     "static/js/2.3501ca85.chunk.js.LICENSE.txt": "/PRLtaskd2/static/js/2.3501ca85.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.12ba2108.js",
     "static/js/2.3501ca85.chunk.js",
     "static/css/main.c032914e.chunk.css",
-    "static/js/main.3d386af7.chunk.js"
+    "static/js/main.3d34d83a.chunk.js"
   ]
 }
